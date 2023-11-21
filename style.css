@@ -26,7 +26,7 @@ img{
 button,input{
     font-family: inherit;
 }
-p{
+.p{
     line-height: 1.6rem;
     color: #333;
     margin-block: .5rem;
