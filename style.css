@@ -102,3 +102,7 @@ button,input{
 .bg-gradi{
     background: linear-gradient(to right, green, red, blue);
 }
+.bg-sine{
+    background-color: red;
+    color: black;
+}
