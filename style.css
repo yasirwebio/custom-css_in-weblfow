@@ -26,7 +26,12 @@ img{
 button,input{
     font-family: inherit;
 }
-
+p{
+    line-height: 1.6rem;
+    color: #333;
+    margin-block: .5rem;
+    font-size: 1.1rem;
+}
 .div{
     padding: 1rem;
     background-color: rgba(115, 111, 37, 0.989);
