@@ -99,3 +99,6 @@ button,input{
     --fg: black;
     background: linear-gradient(to right, lightgreen, lightblue);
 }
+.bg-gradi{
+    background: linear-gradient(to right, green, red, blue);
+}
